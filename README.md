@@ -2,10 +2,6 @@ Hey, I'm Khizar 👋
 I'm an AI Engineer who gets genuinely excited about building things that didn't exist yesterday. By day I'm wiring up LLMs, agents, and automation pipelines. By night I'm probably editing a video, planning a surf trip, or down a rabbit hole I can't explain.
 I grew up between Lahore and Leicester, which means I'm equally comfortable at a wedding with 500 people and a cold beach with 3.
 
-What I'm building currently
-
-🐝 SwarmBuild — a side project I can't stop thinking about. The idea: instead of one person wrestling one AI agent, what if people globally brought their agents together to build things none of them could build alone? Multi-agent coordination, distributed roles, CLI tooling. Still early. Very real.
-
 
 What I work with
 AI / ML       →   LLMs · RAG · Agents · LangChain · OpenAI · Anthropic · Hugging Face
